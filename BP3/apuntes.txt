@@ -1,0 +1,9 @@
+-> Conceptos
+	prioridades, variables de entorno,variables de control, funciones
+
+reparto de bucle con schedule : static, dynamic y guided
+
+reparto de las iteraciones de bucle con schedule(runtime)
+¿Que pasa con schedule runtime?
+
+con guided especificas el mininimo de chunk!

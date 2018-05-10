@@ -1,0 +1,8 @@
+./SumaVectores.sh: line 20:  6034 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: line 20:  6037 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: line 20:  6041 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: line 20:  6045 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: line 20:  6052 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: line 20:  6056 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: line 20:  6060 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N
+./SumaVectores.sh: line 20:  6063 Segmentation fault      (core dumped) $PBS_O_WORKDIR/SumaVectoresC $N

@@ -1,0 +1,6 @@
+recordar como multiplicar matriz por vector
+
+primero pide un paralelismo en un bucle externo
+y despues nos pide que hagamos un paralelismo a un bucle interno
+
+ganancia = tiempo secuencial / tiempo paralelo

@@ -1,0 +1,11 @@
+Id. usuario del trabajo: B3estudiante30
+Id. del trabajo: 75176.atcgrid
+Nombre del trabajo especificado por usuario: pmv-OpenMPr
+Nodo que ejecuta qsub: atcgrid
+Directorio en el que se ha ejecutado qsub: /home/B3estudiante30
+Cola: ac
+pmv-OpenMP-reduction
+Tiempo(seg.):0.571600770	 / Tamaño:100	/ V2[0]=328350.000000 V2[99]=818400.000000
+Tiempo(seg.):2.953310519	 / Tamaño:500	/ V2[0]=41541750.000000 V2[499]=103792000.000000
+Tiempo(seg.):5.819291417	 / Tamaño:1000	/ V2[0]=332833500.000000 V2[999]=831834000.000000
+Tiempo(seg.):28.549429218	 / Tamaño:5000	/ V2[0]=41654167500.000000 V2[4999]=104129170000.000000

@@ -1,0 +1,2 @@
+PS1="[GuilleMuriel \u@\h:\w] \D{%F %A}\n$"
+gcc -lrt 

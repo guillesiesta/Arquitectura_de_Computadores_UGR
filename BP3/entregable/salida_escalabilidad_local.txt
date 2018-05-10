@@ -1,0 +1,15 @@
+secuencial
+Tiempo = 0.002928363	 Primera = 2400	 Ultima=2400
+Tiempo = 0.118825599	 Primera = 12000	 Ultima=12000
+Tiempo = 1.388651759	 Primera = 24000	 Ultima=24000
+Tiempo = 8.389792255	 Primera = 36000	 Ultima=36000
+paralelo 4 threads
+Tiempo = 0.000350211	 Primera = 2400	 Ultima=2400
+Tiempo = 0.061507425	 Primera = 12000	 Ultima=12000
+Tiempo = 0.393446265	 Primera = 24000	 Ultima=24000
+Tiempo = 2.334081648	 Primera = 36000	 Ultima=36000
+paralelo 8 threads
+Tiempo = 0.003100471	 Primera = 2400	 Ultima=2400
+Tiempo = 0.047626234	 Primera = 12000	 Ultima=12000
+Tiempo = 1.046213220	 Primera = 24000	 Ultima=24000
+Tiempo = 4.337541477	 Primera = 36000	 Ultima=36000

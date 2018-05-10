@@ -1,0 +1,39 @@
+->Conceptos
+	->OpenMP paradigma paralelismo	
+	->Directivas, cuales, diferencias barreras de sincronía
+	->elapsetime
+	->MIPS-MFLOPS
+
+call clock gettime
+	instrucciones de ordenamiento
+L:5
+	instrucciones bucle (contar las instruccions dentro del bucle y multplicar por el numero de iteraciones del bucle)
+	jne .L5
+	salida
+call clockgettime
+
+23/03/18
+
+Ejercicios 1-4
+	->openmp -> elementos que componen openmp
+		->directivas - tiempo compilacion
+		->funciones - tiempo ejecucion
+		->variables de entonro  - antes de ejecucion
+	->paradigma paralelismo basado en
+
+	->directivas combinadas
+
+Ejercicio 5-6
+	->Ensamblador -S y usar -O2
+
+Ejercicios 7-11 -> time elapse	
+	->Condiciones de carrera (las hebras compiten por ver quien llega primera y puede alterar el resultado) -> omp_get_time
+
+
+MIPS = Instrucciones/Tpo * 10⁶
+
+MFLOPS = Op_punto_float / Tpo * 10⁶
+
+%xmm son las operaciones que estan en punto flotante
+
+	
